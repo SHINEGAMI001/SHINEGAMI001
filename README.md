@@ -10,9 +10,11 @@ Currently focused on:
 - Backend architecture
 - Real-time applications
 - WebSockets & Django Channels
-- Docker infrastructure & DevOps
+- Docker infrastructure & DevOps & Deployment
+- Application security fundamentals
 - Authentication systems
 - REST APIs
+- Scalable backend systems
 
 ## Tech & Tools
 
@@ -25,7 +27,7 @@ Currently focused on:
 - PostgreSQL
 - Git & GitHub
 
-## Selected Projects
+## Highlighted Projects
 
 ### ft_transcendence
 Full-stack web platform featuring:
@@ -49,7 +51,8 @@ Concurrency and synchronization project exploring threads, mutexes, and race con
 
 - Backend engineering
 - Systems programming
-- Networking
+- Network programming
+- Application security
 - DevOps
 - Real-time systems
 - Linux infrastructure
