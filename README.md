@@ -21,7 +21,6 @@ Currently focused on:
 - C / C++
 - Python / Django
 - Django Channels
-- Redis
 - Docker
 - Linux / Bash
 - PostgreSQL
@@ -55,4 +54,3 @@ Concurrency and synchronization project exploring threads, mutexes, and race con
 - Application security
 - DevOps
 - Real-time systems
-- Linux infrastructure
