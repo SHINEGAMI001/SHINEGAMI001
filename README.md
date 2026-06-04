@@ -29,7 +29,7 @@ Currently focused on:
 ## Highlighted Projects
 
 ### ft_transcendence
-Full-stack web platform featuring:
+A full-stack web application that combines social features with a competitive 2D football game. Features real-time chat with notification system, friends system, profile management, game invites with queue system for matchmaking and real-time multiplayer game that support 6 players in one game. Built with React + Django + Postgresql + Docker.
 - Authentication system
 - REST APIs
 - Real-time multiplayer features
